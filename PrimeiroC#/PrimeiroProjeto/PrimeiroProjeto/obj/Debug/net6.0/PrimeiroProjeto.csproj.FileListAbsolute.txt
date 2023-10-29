@@ -1,0 +1,15 @@
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.exe
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.deps.json
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.runtimeconfig.json
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.dll
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.pdb
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfo.cs
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.dll
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\refint\PrimeiroProjeto.dll
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.pdb
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.genruntimeconfig.cache
+H:\Meu Drive\C#\C#PRIMEIROS PASSOS LÓGICA DE PROGRAMAÇÃO E ALGORITMOS - UDEMY\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\ref\PrimeiroProjeto.dll
